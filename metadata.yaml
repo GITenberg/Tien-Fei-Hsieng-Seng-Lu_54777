@@ -1,6 +1,9 @@
 _repo: Tien-Fei-Hsieng-Seng-Lu_54777
 _version: 0.1.0
 alternative_title: Tien Fei Hsieng Seng Lu
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Lin, Yao Yu
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '48037'
     url: http://www.gutenberg.org/2009/agents/48037
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54777#Tien-Fei-Hsieng-Seng-Lu
 gutenberg_issued: '2017-05-24'
 gutenberg_type: Text
 identifiers:
