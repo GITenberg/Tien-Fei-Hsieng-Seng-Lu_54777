@@ -1,0 +1,26 @@
+_repo: Tien-Fei-Hsieng-Seng-Lu_54777
+_version: 0.0.1
+alternative_title: Tien Fei Hsieng Seng Lu
+creator:
+  authors:
+  - agent_name: Lin, Yao Yu
+    alias: 林堯瑜
+    gutenberg_agent_id: '48036'
+    url: http://www.gutenberg.org/2009/agents/48036
+  - agent_name: Huang, Qi You
+    alias: 黃起有
+    gutenberg_agent_id: '48037'
+    url: http://www.gutenberg.org/2009/agents/48037
+description: ''
+gutenberg_issued: '2017-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54777'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 天妃顯聖錄
+url: http://www.gutenberg.org/ebooks/54777
